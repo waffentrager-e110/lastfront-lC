@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "name": "Last Front",
+    "version": "1.0.0",
+    "description": "Last Front | Forge 1.12.2 modpack"
+  },
+  "forge": {
+    "version": "1.12.2-14.23.5.2860"
+  },
+  "files": [
+    {
+      "path": "mods",
+      "type": "directory"
+    },
+    {
+      "path": "config",
+      "type": "directory"
+    },
+    {
+      "path": "servers.dat",
+      "type": "file"
+    }
+  ]
+}
